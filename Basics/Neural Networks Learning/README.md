@@ -1,7 +1,7 @@
 
 #  Neural Networks Learning
 ## Implement the backpropagation algorithm for neural networks and apply it to the task of hand-written digit recognition. 
-I have downloaded Dataset for and Neural Networks Learning
+I have downloaded Dataset for Neural Networks Learning
 ### 1. Neural Networks
 implement the backpropagation algorithm to learn the parameters for the neural network.
 ### 2. Backpropagation
